@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **wellingtonslima/wellingtonslima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -47,5 +45,5 @@ Em breve, este perfil reunirá projetos públicos que demonstram arquitetura de 
 
 ## Contato
 
-- LinkedIn: adicione aqui o link do seu perfil
+- LinkedIn: https://www.linkedin.com/in/wellingtonslima/
 - E-mail: wellingtonsl21@gmail.com
